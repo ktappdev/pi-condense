@@ -1,8 +1,15 @@
 {
-  "name": "pi-condense",
+  "name": "@ktappdev/pi-condense",
   "version": "1.0.0",
   "description": "Start a fresh pi session seeded with this conversation's flattened transcript. No LLM summary, no tokens burned, nothing paraphrased.",
   "keywords": ["pi-package", "pi-extension", "compaction", "condense"],
+  "author": "ktappdev",
+  "license": "MIT",
+  "files": ["extensions", "README.md"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktappdev/pi-condense.git"
+  },
   "pi": {
     "extensions": ["./extensions"]
   },
