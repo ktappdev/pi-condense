@@ -21,7 +21,7 @@ Great for conversation-heavy threads — design discussions, Q&A, planning — w
 
 ## Install
 
-pi install npm:@ktappdev/pi-condense
+pi install npm:@kentaylorappdev/pi-condense
 pi install git:github.com/ktappdev/pi-condense  # direct from git
 ```
 
