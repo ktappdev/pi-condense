@@ -19,6 +19,16 @@ Pi's built-in `/compact` summarizes context with an LLM call: costs tokens, risk
 
 Great for conversation-heavy threads — design discussions, Q&A, planning — where tool output is noise and the text spine is what matters.
 
+## Measured
+
+Real numbers from 54 pi sessions (same flatten logic, run over session files):
+
+| | |
+|---|---|
+| Average reduction | **95.5% smaller** — 7.1 MB of session files → 321 KB of transcript |
+| Best session | 99.8% smaller |
+| Cost | 0 tokens, 0 LLM calls |
+
 ## Install
 
 pi install npm:@kentaylorappdev/pi-condense
