@@ -21,8 +21,8 @@ Great for conversation-heavy threads — design discussions, Q&A, planning — w
 
 ## Install
 
-```bash
-pi install git:github.com/ktappdev/pi-condense
+pi install npm:@ktappdev/pi-condense
+pi install git:github.com/ktappdev/pi-condense  # direct from git
 ```
 
 Then reload (`/reload`) or restart pi.
