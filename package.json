@@ -1,6 +1,6 @@
 {
   "name": "pi-context-condense",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Start a fresh pi session seeded with this conversation's flattened transcript. No LLM summary, no tokens burned, nothing paraphrased.",
   "keywords": [
     "pi-package",
