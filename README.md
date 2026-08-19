@@ -31,7 +31,7 @@ Real numbers from 54 pi sessions (same flatten logic, run over session files):
 
 ## Install
 
-pi install npm:@kentaylorappdev/pi-condense
+pi install npm:pi-context-condense
 pi install git:github.com/ktappdev/pi-condense  # direct from git
 ```
 
