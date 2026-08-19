@@ -1,4 +1,4 @@
-# pi-condense
+# pi-context-condense
 
 Start a fresh pi session seeded with your conversation's flattened transcript. **No LLM summary, no tokens burned, nothing paraphrased.**
 
@@ -31,6 +31,7 @@ Real numbers from 54 pi sessions (same flatten logic, run over session files):
 
 ## Install
 
+```
 pi install npm:pi-context-condense
 pi install git:github.com/ktappdev/pi-condense  # direct from git
 ```
